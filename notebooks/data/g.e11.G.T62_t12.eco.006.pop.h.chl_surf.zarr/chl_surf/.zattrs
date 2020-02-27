@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "nlat",
+        "nlon"
+    ],
+    "long_name": "Surface Chl",
+    "units": "mg/m^3"
+}
