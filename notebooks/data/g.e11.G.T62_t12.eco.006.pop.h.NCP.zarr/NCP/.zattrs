@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "nlat",
+        "nlon"
+    ],
+    "long_name": "NCP (z > -100 m)",
+    "units": "mol m$^{-2}$ yr$^{-1}$"
+}
