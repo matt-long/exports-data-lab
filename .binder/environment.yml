@@ -4,13 +4,11 @@ channels:
 dependencies:
   - cartopy 
   - cftime
-  - ipyvuetify
   - ipywidgets
   - matplotlib 
   - nc-time-axis
   - pop-tools
   - scipy 
   - voila 
-  - voila-vuetify
   - xarray
   - zarr 
