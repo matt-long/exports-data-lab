@@ -1,0 +1,14 @@
+name: voila 
+channels:
+  - conda-forge 
+dependencies:
+  - cartopy 
+  - cftime
+  - ipywidgets
+  - matplotlib 
+  - nc-time-axis
+  - pop-tools
+  - scipy 
+  - voila 
+  - xarray
+  - zarr 
